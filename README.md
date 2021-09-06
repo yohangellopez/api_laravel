@@ -12,8 +12,11 @@ Este es una API de un CRUD de tareas desarrollado el dia 6 de septiembre del 202
 
 ## PASOS PARA EJECUTAR EN ENTORNO LOCAL
 1- Clonar el repositorio git.
+
 2- Ejecutar comando composer install 
+
 3- Ejecutar php artisan key:generate
+
 4- Modificar el nombre del archivo .env.example por .env y cambiar el de las siguientes variables
 
     DB_DATABASE=laravel
